@@ -1,16 +1,12 @@
-# coffeeorder
+# Coffee Shop 
 
-A new Flutter project.
+Code for the screens of the coffeeshop flutter app.
 
-## Getting Started
+Design credit - https://dribbble.com/shots/7969387-Coffee-To-Go-app-design/attachments/520952?mode=media
 
-This project is a starting point for a Flutter application.
+How do I code this ? - https://youtu.be/pn5gfGIfBpI
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20191109-043659](https://user-images.githubusercontent.com/8137504/68534393-1c99c180-035a-11ea-8bbe-5081c734f7a1.png)
+![Screenshot_20191110-013210](https://user-images.githubusercontent.com/8137504/68534394-1c99c180-035a-11ea-9557-bbec71d52582.png)
